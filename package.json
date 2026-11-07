@@ -1,0 +1,28 @@
+{
+  "name": "vipcheap-mirror",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "verify": "node scripts/verify-mirror.js",
+    "verify:assets": "node scripts/verify-assets.js",
+    "verify:backend": "node scripts/verify-backend.js",
+    "verify:auth-ui": "node scripts/verify-auth-ui.js"
+  },
+  "dependencies": {
+    "lucide-react": "1.70.0",
+    "next": "16.4.5",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "playwright-core": "^1.57.0",
+    "typescript": "^5.9.0"
+  }
+}
