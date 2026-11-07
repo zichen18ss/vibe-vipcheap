@@ -1,0 +1,129 @@
+{
+  "chatgpt-pro": {
+    "id": 5,
+    "slug": "chatgpt-pro",
+    "name": "ChatGPT Pro",
+    "desc": "个人账号代充值，支持支付宝支付",
+    "category": "Chat-Assistant",
+    "categoryLabel": "对话助手",
+    "isFlashSale": true,
+    "isNew": true,
+    "saleEndTime": 1795975800000,
+    "rating": 5.0,
+    "reviewCount": 0,
+    "stock": 156,
+    "soldCount": 46,
+    "image": "/assets/uploads/RarDkqu5s8.webp",
+    "heroImage": "/assets/uploads/uO4yAEt0JD.webp",
+    "variants": [
+      {
+        "id": 19,
+        "name": "5x",
+        "displayName": "5X ChatGPT Plus额度",
+        "price": 89900,
+        "vipPrice": 86900,
+        "originalPrice": 89900,
+        "stock": 62,
+        "soldCount": 39
+      },
+      {
+        "id": 20,
+        "name": "20x",
+        "displayName": "20x ChatGPT Plus 额度",
+        "price": 168900,
+        "vipPrice": 158900,
+        "originalPrice": 168900,
+        "stock": 94,
+        "soldCount": 7
+      }
+    ]
+  },
+  "chatgpt-plus": {
+    "id": 2,
+    "slug": "chatgpt-plus",
+    "name": "ChatGPT Plus",
+    "desc": "个人账号代充值，支持支付宝支付",
+    "category": "Chat-Assistant",
+    "categoryLabel": "对话助手",
+    "isFlashSale": true,
+    "isNew": true,
+    "saleEndTime": 1795042860000,
+    "rating": 4.4,
+    "reviewCount": 14,
+    "stock": 34,
+    "soldCount": 1253,
+    "image": "/assets/uploads/hYNJkQxjq6.webp",
+    "heroImage": "/assets/uploads/Dqhdxc-ydn.jpg",
+    "variants": [
+      {
+        "id": 2,
+        "name": "monthly",
+        "displayName": "月卡",
+        "price": 18900,
+        "vipPrice": 17900,
+        "originalPrice": 18900,
+        "stock": 34,
+        "soldCount": 1253
+      }
+    ]
+  },
+  "flowith": {
+    "id": 3,
+    "slug": "flowith",
+    "name": "Flowith",
+    "desc": "无限画布Agent工具",
+    "category": "Productivity-Office",
+    "categoryLabel": "办公效率",
+    "isFlashSale": true,
+    "isNew": true,
+    "saleEndTime": 1795968060000,
+    "rating": 5.0,
+    "reviewCount": 1,
+    "stock": 29,
+    "soldCount": 1,
+    "image": "/assets/uploads/oF8a0WnbRv.png",
+    "heroImage": "/assets/uploads/pDhqUHdkRi.png",
+    "variants": [
+      {
+        "id": 13,
+        "name": "Pro-Monthly",
+        "displayName": "Pro·月卡",
+        "price": 11690,
+        "vipPrice": 10290,
+        "originalPrice": 11690,
+        "stock": 10,
+        "soldCount": 0
+      },
+      {
+        "id": 14,
+        "name": "Ultimate-Monthly",
+        "displayName": "Ultimate·月卡",
+        "price": 29490,
+        "vipPrice": 17190,
+        "originalPrice": 29490,
+        "stock": 8,
+        "soldCount": 1
+      },
+      {
+        "id": 15,
+        "name": "Pro-Annual",
+        "displayName": "Pro·年卡",
+        "price": 126490,
+        "vipPrice": 109990,
+        "originalPrice": 126490,
+        "stock": 7,
+        "soldCount": 0
+      },
+      {
+        "id": 16,
+        "name": "Ultimate-Annual",
+        "displayName": "Ultimate·年卡",
+        "price": 329490,
+        "vipPrice": 286690,
+        "originalPrice": 329490,
+        "stock": 4,
+        "soldCount": 0
+      }
+    ]
+  }
+}
